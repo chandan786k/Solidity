@@ -1,4 +1,5 @@
 MyToken Solidity Smart Contract
+
 This Solidity program is a basic token contract that demonstrates essential token functionalities, including minting and burning tokens. It serves as a foundational example for those new to Solidity and token development.
 
 Description
