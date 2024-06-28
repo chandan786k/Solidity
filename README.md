@@ -84,6 +84,7 @@ function burn(address _address, uint value) public {
 }
 Description: Decreases the total supply and the balance of the specified address, provided the address has enough tokens.
 Parameters:
+
 _address: The address from which the tokens will be burned.
 value: The number of tokens to be burned.
 Requirements: The balance of the specified address must be greater than or equal to the number of tokens to be burned.
