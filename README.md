@@ -88,8 +88,11 @@ Parameters:
 _address: The address from which the tokens will be burned.
 value: The number of tokens to be burned.
 Requirements: The balance of the specified address must be greater than or equal to the number of tokens to be burned.
+
 Authors
 Metacrafter Chris
+
 @metacraftersio
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
