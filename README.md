@@ -16,7 +16,7 @@ Visit the Remix website at Remix Ethereum.
 Create a New File:
 
 Click on the "+" icon in the left-hand sidebar.
-Save the file with a .sol extension (e.g., MyToken.sol).
+Save the file with a .sol extension (solidity.sol).
 Copy and Paste the Code:
 
 solidity
