@@ -51,6 +51,7 @@ Compile the Code:
 Click on the "Solidity Compiler" tab in the left-hand sidebar.
 Ensure the "Compiler" option is set to "0.8.26" (or another compatible version).
 Click on the "Compile MyToken.sol" button.
+
 Deploy the Contract:
 
 Click on the "Deploy & Run Transactions" tab in the left-hand sidebar.
@@ -70,6 +71,7 @@ function mint(address _address, uint value) public {
     totaltoken += value;
 }
 Description: Increases the total supply and the balance of the specified address.
+
 Parameters:
 _address: The address to which the tokens will be minted.
 value: The number of tokens to be minted.
@@ -83,10 +85,12 @@ function burn(address _address, uint value) public {
     totaltoken -= value;
 }
 Description: Decreases the total supply and the balance of the specified address, provided the address has enough tokens.
-Parameters:
 
+Parameters:
 _address: The address from which the tokens will be burned.
+
 value: The number of tokens to be burned.
+
 Requirements: The balance of the specified address must be greater than or equal to the number of tokens to be burned.
 
 Authors
