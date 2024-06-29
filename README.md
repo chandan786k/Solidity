@@ -50,12 +50,12 @@ Compile the Code:
 
 Click on the "Solidity Compiler" tab in the left-hand sidebar.
 Ensure the "Compiler" option is set to "0.8.26" (or another compatible version).
-Click on the "Compile MyToken.sol" button.
+Click on the "Compile solidity.sol" button.
 
 Deploy the Contract:
 
 Click on the "Deploy & Run Transactions" tab in the left-hand sidebar.
-Select the "MyToken" contract from the dropdown menu.
+Select the "solidity" contract from the dropdown menu.
 Click on the "Deploy" button.
 Interact with the Contract:
 
